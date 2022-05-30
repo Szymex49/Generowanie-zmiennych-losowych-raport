@@ -1,0 +1,2 @@
+# Generowanie-zmiennych-losowych-raport
+ 
